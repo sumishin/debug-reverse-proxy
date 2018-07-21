@@ -35,9 +35,9 @@ npm start
 
 * listenPort  
 待ち受けするポート
-* targetHost
+* targetHost  
 プロキシ対象のサーバ
-* appendHeaders
+* appendHeaders  
 リクエストに付与するhttpヘッダーの値
 
 ## LICENSE
