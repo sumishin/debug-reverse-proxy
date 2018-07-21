@@ -39,3 +39,7 @@ npm start
 プロキシ対象のサーバ
 * appendHeaders
 リクエストに付与するhttpヘッダーの値
+
+## LICENSE
+
+このコードはMITライセンスにて提供しています。詳しくは LICENSE ファイルをご確認ください。
