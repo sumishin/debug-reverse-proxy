@@ -1,0 +1,13 @@
+{
+  "name": "reverse-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "http-proxy": "^1.17.0"
+  }
+}
